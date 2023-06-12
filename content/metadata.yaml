@@ -201,6 +201,19 @@ authors:
   affiliations:
   - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
   - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+- github: sakshamphul
+  name: Saksham Phul
+  initials: SP
+  orcid: 0000-0002-2771-2572
+  twitter: migbro
+  email: phuls@chop.edu
+  contributions:
+  - Data curation
+  - Methodology
+  - Formal analysis
+  affiliations:
+  - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
 - github: migbro
   name: Miguel A. Brown
   initials: MAB
