@@ -150,6 +150,16 @@ authors:
   affiliations:
   - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
   - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+- github: rjcorb
+  name: Ryan J. Corbett
+  initials: RJC
+  orcid: 0000-0002-3478-0784
+  email: corbettr@chop.edu
+  contributions:
+  - Formal analysis
+  affiliations:
+  - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
 - github: sdiskin
   name: Sharon J. Diskin
   initials: SJD
