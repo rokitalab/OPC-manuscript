@@ -214,6 +214,17 @@ authors:
   affiliations:
   - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
   - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+- github: sickler-alex
+  name: Alex Sickler
+  initials: AJS
+  orcid: 0000-0001-7830-7537
+  email: sicklera@chop.edu
+  contributions:
+  - Methodology
+  - Formal analysis
+  affiliations:
+  - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
 - github: adamcresnick
   name: Adam C. Resnick
   initials: ACR
