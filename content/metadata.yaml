@@ -150,6 +150,16 @@ authors:
   affiliations:
   - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
   - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+- github: rjcorb
+  name: Ryan J. Corbett
+  initials: RJC
+  orcid: 0000-0002-3478-0784
+  email: corbettr@chop.edu
+  contributions:
+  - Formal analysis
+  affiliations:
+  - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
 - github: sdiskin
   name: Sharon J. Diskin
   initials: SJD
@@ -201,6 +211,19 @@ authors:
   affiliations:
   - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
   - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+- github: sakshamphul
+  name: Saksham Phul
+  initials: SP
+  orcid: 0000-0002-2771-2572
+  twitter: migbro
+  email: phuls@chop.edu
+  contributions:
+  - Data curation
+  - Methodology
+  - Formal analysis
+  affiliations:
+  - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
 - github: migbro
   name: Miguel A. Brown
   initials: MAB
@@ -209,6 +232,17 @@ authors:
   email: brownm28@chop.edu
   contributions:
   - Data curation
+  - Methodology
+  - Formal analysis
+  affiliations:
+  - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+- github: sickler-alex
+  name: Alex Sickler
+  initials: AJS
+  orcid: 0000-0001-7830-7537
+  email: sicklera@chop.edu
+  contributions:
   - Methodology
   - Formal analysis
   affiliations:
@@ -257,4 +291,17 @@ authors:
   - Department of Bioinformatics and Health Informatics, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
   funders:
   - NCI/NIH Contract No. 75N91019D00024, Task Order No. 75N91020F00003
-
+- github: kelseykeith
+  name: Kelsey Keith
+  initials: KK
+  orcid: 0000-0002-7451-5117
+  email: keithk@chop.edu
+  contributions:
+  - Software
+  - Writing - original draft
+  - API
+  - Formal Analysis
+  - Data Curation
+  - Visualization
+  affiliations:
+  - Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
