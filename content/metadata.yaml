@@ -292,6 +292,18 @@ authors:
   - Visualization
   affiliations:
   - Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+- github: atlas4213
+  name: Dave Hill
+  initials: DH
+  orcid: 0000-0002-1337-1789
+  email: hilldd@chop.edu
+  contributions:
+  - Software
+  - Writing - original draft
+  - API
+  - Data Curation
+  affiliations:
+  - Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
 - github: chinwallaa
   name: Asif T Chinwalla
   initials: ATC
