@@ -33,6 +33,21 @@ authors:
   - Writing - Review and editing
   affiliations:
   - Department of Bioinformatics and Health Informatics, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+- github: adilahiri
+  name: Aditya Lahiri
+  initials: AL
+  orcid: 0000-0001-9352-1312
+  email: lahiria@chop.edu
+  contributions:
+  - Data curation
+  - Formal analysis
+  - Investigation
+  - Methodology
+  - Software
+  - Writing – Original draft
+  - Writing - Review and editing
+  affiliations:
+  - Department of Bioinformatics and Health Informatics, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
 - name: Krutika S. Gaonkar
   initials: KSG
   orcid: 0000-0003-0838-2405
