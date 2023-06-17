@@ -169,6 +169,15 @@ authors:
   affiliations:
   - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
   - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+- github: zoomzoom1011
+  name: Chuwei Zhong
+  initials: CZ
+  orcid: 0000-0003-2406-2735
+  email: zhongc1@chop.edu
+  contributions: Formal analysis
+  affiliations:
+  - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
 - github: bmennis
   name: Brian M. Ennis
   initials: BME
