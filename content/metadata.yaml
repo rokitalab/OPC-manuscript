@@ -176,7 +176,7 @@ authors:
   email: zhongc1@chop.edu
   contributions: 
   - Formal analysis
-   affiliations:
+  affiliations:
   - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
   - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
 - github: zzgeng
@@ -241,6 +241,16 @@ authors:
   affiliations:
   - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
   - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+- name: Matthew R. Lueder
+  initials: MRL
+  github: luederm
+  orcid: 0009-0002-7370-102X
+  email: luederm@chop.edu
+  contributions: Data curation
+  affiliations:
+    - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+    - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+    - Department of Pathology and Laboratory Medicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
 - name: Noel Coleman
   initials: NC
   orcid: 0000-0001-6454-1285
