@@ -248,9 +248,9 @@ authors:
   email: luederm@chop.edu
   contributions: Data curation
   affiliations:
-    - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
-    - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
-    - Department of Pathology and Laboratory Medicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  - Department of Pathology and Laboratory Medicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
 - name: Noel Coleman
   initials: NC
   orcid: 0000-0001-6454-1285
