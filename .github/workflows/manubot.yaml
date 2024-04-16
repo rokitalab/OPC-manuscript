@@ -32,6 +32,10 @@ on:
         type: boolean
         description: Use Docker to generate PDF
         default: true
+
+permissions:
+  pull-requests: write
+
 jobs:
   manubot:
     name: Manubot
