@@ -53,7 +53,7 @@ jobs:
         with:
           # fetch entire commit history to support get_rootstock_commit
           fetch-depth: 0
-     - name: Set Environment Variables (Workflow Dispatch)
+      - name: Set Environment Variables (Workflow Dispatch)
         if: github.event_name == 'workflow_dispatch'
         run: |
           echo "BUILD_PDF=${{ github.event.inputs.BUILD_PDF }}" >> $GITHUB_ENV
