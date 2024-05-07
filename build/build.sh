@@ -73,12 +73,13 @@ if [ "${BUILD_PDF}" != "false" ] && [ "${MANUBOT_USE_DOCKER}" == "true" ]; then
   cp -R -L content/images output/
   docker run \
     --rm \
-    --shm-size=1g \
+    --shm-size=2g \
     --volume="$(pwd)/output:/converted/" \
     --security-opt=seccomp:unconfined \
     arachnysdocker/athenapdf:2.16.0 \
     athenapdf \
     --delay=${MANUBOT_ATHENAPDF_DELAY:-1100} \
+    --timeout=1200 \
     --pagesize=A4 \
     manuscript.html manuscript.pdf
   rm -rf output/images
@@ -126,7 +127,7 @@ if [ "${SPELLCHECK}" = "true" ]; then
   # Use "|| true" after grep because otherwise this step of the pipeline will
   # return exit code 1 if any of the markdown files do not contain a
   # misspelled word
-  cat output/expanded-spelling-errors.txt | while read word; do grep -ion "\<$word\>" content/*.md; done | sort -h -t ":" -k 1b,1 -k2,2 > output/spelling-error-locations.txt || true
+  cat output/expanded-spelling-errors.txt | while read word; do grep -on "\<$word\>" content/*.md; done | sort -h -t ":" -k 1b,1 -k2,2 > output/spelling-error-locations.txt || true
   echo >&2 "Filenames and line numbers with potential spelling errors:"
   cat output/spelling-error-locations.txt
 
