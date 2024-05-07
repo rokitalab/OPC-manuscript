@@ -32,10 +32,13 @@ on:
         type: boolean
         description: Use Docker to generate PDF
         default: true
+
 jobs:
   manubot:
     name: Manubot
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     env:
       GITHUB_PULL_REQUEST_SHA: ${{ github.event.pull_request.head.sha }}
       # Set SPELLCHECK to true/false for whether to check spelling in this action.
@@ -46,11 +49,11 @@ jobs:
         shell: bash --login {0}
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           # fetch entire commit history to support get_rootstock_commit
           fetch-depth: 0
-      - name: Set Environment Variables (Workflow Dispatch)
+     - name: Set Environment Variables (Workflow Dispatch)
         if: github.event_name == 'workflow_dispatch'
         run: |
           echo "BUILD_PDF=${{ github.event.inputs.BUILD_PDF }}" >> $GITHUB_ENV
@@ -68,7 +71,7 @@ jobs:
           echo "DEFAULT_BRANCH_REF=refs/heads/$DEFAULT_BRANCH" >> $GITHUB_ENV
           echo "DEFAULT_BRANCH=$DEFAULT_BRANCH"
       - name: Cache
-        uses: actions/cache@v1
+        uses: actions/cache@v3
         with:
           path: ci/cache
           key: ci-cache-${{ github.ref }}
@@ -80,14 +83,16 @@ jobs:
           activate-environment: manubot
           environment-file: build/environment.yml
           auto-activate-base: false
+          miniforge-variant: Mambaforge
           miniforge-version: 'latest'
+          use-mamba: true
       - name: Install Spellcheck
         if: env.SPELLCHECK == 'true'
         run: bash ci/install-spellcheck.sh
       - name: Build Manuscript
-        run: BUILD_DOCX=true bash build/build.sh
+        run: bash build/build.sh
       - name: Upload Artifacts
-        uses: actions/upload-artifact@v1
+        uses: actions/upload-artifact@v3
         with:
           name: manuscript-${{ github.run_id }}-${{ env.TRIGGERING_SHA_7 }}
           path: output
