@@ -1,4 +1,4 @@
-personal_ws-1.1 en 222
+personal_ws-1.1 en 225
 adenylated
 Aditya
 aliquot
@@ -49,6 +49,7 @@ DGD
 DIPG
 Diskin
 DKFZ
+doi
 DRC
 EdgeSeq
 efo
@@ -149,6 +150,7 @@ ONCOSEQ
 OPC
 OpenPBTA
 OpenPedCan
+ORCID
 Osteosarcoma
 pathogenesis
 PBTA
@@ -156,6 +158,7 @@ PCR
 pedcbio
 PedcBioPortal
 pedot
+permalink
 Phul
 Picard
 PicoGreen
