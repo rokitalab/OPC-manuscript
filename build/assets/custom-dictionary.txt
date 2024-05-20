@@ -1,4 +1,4 @@
-personal_ws-1.1 en 225
+personal_ws-1.1 en 228
 adenylated
 Aditya
 aliquot
@@ -86,6 +86,7 @@ gnomAD
 gtex
 gtf
 HGG
+HGNC
 histological
 HL
 hotspot
@@ -108,6 +109,7 @@ Krutika
 Kuren
 Lahiri
 LGAT
+liftover
 Lueder
 Lymphoblastic
 lysis
@@ -141,6 +143,7 @@ Neuro
 Neuroblastoma
 neurocytoma
 Nextseq
+ng
 nonsynonymous
 normals
 NovaSeq
