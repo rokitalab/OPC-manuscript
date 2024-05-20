@@ -135,7 +135,7 @@ Myeloid
 NaOH
 NBL
 NCI
-NCI’s
+NCI's
 Neuro
 Neuroblastoma
 neurocytoma
@@ -210,7 +210,7 @@ VCF
 VEP
 Wafula
 WGS
-Wilm’s
+Wilm's
 WTA
 WXS
 Xiaoyan
