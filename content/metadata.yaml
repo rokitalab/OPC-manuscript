@@ -18,6 +18,21 @@ authors:
   - Software
   affiliations:
   - Department of Bioinformatics and Health Informatics, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+- github: zzgeng
+  name: Zhuangzhuang Geng
+  initials: ZG
+  orcid: 0009-0007-6883-0691
+  email: gengz@chop.edu
+  contributions:
+  - Data curation
+  - Formal analysis
+  - Investigation
+  - Methodology
+  - Software
+  - Writing – Original draft
+  affiliations:
+  - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
 - github: sangeetashukla
   name: Sangeeta Shukla
   initials: SS
@@ -176,21 +191,6 @@ authors:
   email: zhongc1@chop.edu
   contributions: 
   - Formal analysis
-  affiliations:
-  - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
-  - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
-- github: zzgeng
-  name: Zhuangzhuang Geng
-  initials: ZG
-  orcid: 0009-0007-6883-0691
-  email: gengz@chop.edu
-  contributions:
-  - Data curation
-  - Formal analysis
-  - Investigation
-  - Methodology
-  - Software
-  - Writing – Original draft
   affiliations:
   - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
   - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
