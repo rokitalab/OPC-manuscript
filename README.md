@@ -1,4 +1,4 @@
-# Automated scholarly manuscripts on GitHub
+# The Open Pediatric Cancer (OpenPedCan) Project methods
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -9,10 +9,7 @@
 
 ## Manuscript description
 
-<!-- usage note: edit this section. -->
-
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+This repository documents the methods utilized for the [OpenPedCan](https://github.com/d3b-center/OpenPedCan-analysis) Project and GitHub repository.
 See the latest version of the manuscript as a [webpage](https://d3b-center.github.io/OpenPedCan-methods/) or download it as a [PDF](https://d3b-center.github.io/OpenPedCan-methods/manuscript.pdf).
 
 
