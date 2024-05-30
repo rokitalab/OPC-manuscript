@@ -1,4 +1,4 @@
-# The Open Pediatric Cancer (OpenPedCan) Project methods
+# The Open Pediatric Cancer (OpenPedCan) Project
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -9,7 +9,7 @@
 
 ## Manuscript description
 
-This repository documents the methods utilized for the [OpenPedCan](https://github.com/d3b-center/OpenPedCan-analysis) Project and GitHub repository.
+This repository describes the [OpenPedCan](https://github.com/d3b-center/OpenPedCan-analysis) Project and GitHub repository.
 See the latest version of the manuscript as a [webpage](https://d3b-center.github.io/OpenPedCan-methods/) or download it as a [PDF](https://d3b-center.github.io/OpenPedCan-methods/manuscript.pdf).
 
 
