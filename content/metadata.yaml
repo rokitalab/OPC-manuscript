@@ -1,11 +1,10 @@
 ---
-title: "The Open Pediatric Cancer Project"
+title: "The Open Pediatric Cancer (OpenPedCan) Project"
 keywords:
   - pediatric cancer
   - reproducibility
   - open science
-  - classification
-  - somatic variation
+  - multi-omics
 lang: en-US
 authors:
 - github: ewafula
