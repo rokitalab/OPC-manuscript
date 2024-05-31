@@ -198,8 +198,7 @@ authors:
   name: Antonia Chroni
   initials: AC
   email: antonia.chroni@stjude.org
-  contributions: 
-  - Validation
+  contributions: Validation
   affiliations:
   - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia,
     Philadelphia, PA, 19104, USA
@@ -209,8 +208,7 @@ authors:
   name: Christopher Blackden
   initials: CB
   email: blackdenc@chop.edu
-  contributions: 
-    - Software
+  contributions: Software
   affiliations:
   - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia,
     Philadelphia, PA, 19104, USA
