@@ -466,6 +466,31 @@ authors:
     Philadelphia, PA, 19104, USA
   - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA,
     19104, USA
+- github: naqvia
+  name: Ammar S. Naqvi
+  initials: ASN
+  twitter: jenn0307
+  email: naqvia@chop.edu
+  contributions: 
+    - Methodology
+    - Writing
+  affiliations:
+  - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia,
+    Philadelphia, PA, 19104, USA
+  - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA,
+    19104, USA
+- github: JosephDybas
+  name: Joseph Dybas
+  initials: JD
+  email: dybasj@chop.edu
+  contributions:
+    - Writing
+    - Methodology
+  affiliations:
+  - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia,
+    Philadelphia, PA, 19104, USA
+  - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA,
+    19104, USA
 - github: taylordm
   name: Deanne Taylor
   initials: DT
@@ -489,7 +514,7 @@ authors:
     Philadelphia, PA, 19104, USA
   funders: NCI/NIH Contract No. 75N91019D00024, Task Order No. 75N91020F00003
 - github: jharenza
-  name: Jo Lynne Rokita^
+  name: Jo Lynne Rokita
   initials: JR
   orcid: 0000-0003-2171-3627
   twitter: jolynnerokita
