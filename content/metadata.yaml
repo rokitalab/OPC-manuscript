@@ -1,4 +1,4 @@
-title: The Open Pediatric Cancer (OpenPedCan) Project
+title: The Open Pediatric Cancer Project
 keywords:
 - pediatric cancer
 - reproducibility
@@ -182,12 +182,6 @@ authors:
     Philadelphia, PA, 19104, USA
   - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA,
     19104, USA
-- name: Rocky Breslow
-  initials: RB
-  email: NA
-  contributions: Software
-  affiliations: Center for Data-Driven Discovery in Biomedicine, Children's Hospital
-    of Philadelphia, Philadelphia, PA, 19104, USA
 - github: AntoniaChroni
   name: Antonia Chroni
   initials: AC
@@ -306,8 +300,7 @@ authors:
   - Center for Childhood Cancer Research, Children's Hospital of Philadelphia, Philadelphia,
     PA, 19104, USA
   funders: NCI/NIH Contract No. 75N91019D00024, Task Order No. 75N91020F00003
-- github: jenn0307
-  name: Jennifer L. Mason
+- name: Jennifer L. Mason
   initials: JLM
   twitter: jenn0307
   email: masonjl@chop.edu
@@ -437,6 +430,15 @@ authors:
     Philadelphia, PA, 19104, USA
   - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA,
     19104, USA
+- name: Stephanie Stefankiewicz
+  initials: SS
+  email: stefankies@chop.edu
+  contributions: Project Administration
+  affiliations:
+  - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia,
+    Philadelphia, PA, 19104, USA
+  - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA,
+    19104, USA
 - github: chinwallaa
   name: Asif T Chinwalla
   initials: ATC
@@ -478,6 +480,58 @@ authors:
     USA
   - Department of Pediatrics, University of Pennsylvania, Philadelphia, PA, 19104,
     USA
+- name: Brian R. Rood
+  initials: BRR
+  email: brood@childrensnational.org
+  contributions: Data Curation
+  affiliations:
+  - Children's National Research Institute, Washington, D.C.
+  - George Washington University School of Medicine and Health Sciences, Washington, D.C., 20052, USA
+- name: Carl J. Koschmann
+  initials: CJK
+  orcid: 0000-0002-0825-7615
+  email: ckoschma@med.umich.edu
+  contributions: Data Curation
+  affiliations:
+  - Department of Pediatrics, University of Michigan Health, Ann Arbor, MI, 48105, USA
+  - Pediatric Hematology Oncology, Mott Children's Hospital, Ann Arbor, MI, 48109, USA
+- name: Kenneth Aldape
+  initials: KA
+  email: kenneth.aldape@nih.gov
+  contributions: 
+  - Formal Analysis
+  - Investigation
+  - Data curation
+  affiliations:
+  - Laboratory of Pathology, National Cancer Institute, Bethesda, MD, 20892, USA
+- name: Weiping Ma
+  initials: WM
+  email: weiping.ma@mssm.edu
+  contributions: 
+  - Formal Analysis
+  - Investigation
+  - Data curation
+  affiliations:
+  - Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA
+  - Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA
+- name: Pei Wang
+  initials: PW
+  email: pei.wang@mssm.edu
+  contributions: 
+  - Formal Analysis
+  - Supervision
+  affiliations:
+  - Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA
+  - Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA
+- name: Zied Abdullaev
+  initials: ZA
+  email: zied.abdullaev@nih.gov
+  contributions: 
+  - Formal Analysis
+  - Investigation
+  - Data curation
+  affiliations:
+  - Laboratory of Pathology, National Cancer Institute, Bethesda, MD, 20892, USA
 - github: taylordm
   name: Deanne Taylor
   initials: DT
