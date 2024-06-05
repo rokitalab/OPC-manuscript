@@ -4,10 +4,12 @@ adamantinomatous
 adenylated
 Aditya
 agarose
+Alexandrov
 aliquot
 ALK
 Ambion
 AML
+Ammar
 AMPure
 Arriba
 Asif
@@ -27,6 +29,7 @@ Biosystem
 Biosystems
 Blackden
 BRAF
+Breslow
 CAVATICA
 CBTN
 CCDI
@@ -36,6 +39,7 @@ centromeric
 Chinwalla
 chordoma
 chr
+Chroni
 Chuwei
 cn
 cnv
@@ -53,7 +57,9 @@ cytobands
 dataset
 datasets
 dbGAP
+DBS
 dbSNP
+deconstructSigs
 deconv
 DESeq
 DGD
@@ -64,6 +70,7 @@ DKFZ
 DMG
 doi
 DRC
+Dybas
 EdgeSeq
 efo
 embryonal
@@ -186,6 +193,7 @@ MYO
 myogenic
 myxopapillary
 NaOH
+Naqvi
 NBL
 NCI
 NCI's
@@ -264,6 +272,7 @@ RTK
 Saksham
 Sangeeta
 Santi
+SBS
 Shukla
 Sickler
 Slurm
@@ -280,6 +289,7 @@ subtyped
 subtypes
 subtyping
 Takara
+Tasian
 TCGA
 telomeric
 teratoid
