@@ -44,6 +44,7 @@ Breslow
 CAVATICA
 CBTN
 CCDI
+CCND
 CDKN
 cDNA
 centromeric
@@ -72,6 +73,7 @@ datasets
 dbGAP
 DBS
 dbSNP
+DDX
 deconstructSigs
 deconv
 DESeq
@@ -89,6 +91,7 @@ DRC
 Dybas
 EdgeSeq
 efo
+ELP
 embryonal
 Ennis
 Ensembl
@@ -126,6 +129,7 @@ Gerri
 GF
 GFF
 gistic
+GLI
 glioma
 gliomas
 GMKF
@@ -169,6 +173,7 @@ Kapa
 kelseykeith
 kidsfirstdrc
 KK
+KMT
 Komal
 komalsrathi
 Koschmann
@@ -287,6 +292,7 @@ proteogenomics
 proteome
 proteomic
 proteomics
+PTEN
 PXA
 qPCR
 Quant
@@ -317,8 +323,10 @@ Shukla
 Sickler
 sjdiskin
 Slurm
+SMO
 SNP
 snps
+snRNA
 SNV
 SNVs
 spectrometry
@@ -337,6 +345,7 @@ taylordm
 TCGA
 telomeric
 teratoid
+TERT
 Tisch
 TKTL
 TMB
