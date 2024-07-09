@@ -201,6 +201,7 @@ medulloblastoma
 medulloblastomas
 MedulloClassifier
 methylation
+methylationEPIC
 MGMT
 midline
 migbro
@@ -363,6 +364,7 @@ Turakulov
 TYR
 tyrosine
 UCSC
+UMAP
 utils
 VarDict
 VCF
