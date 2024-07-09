@@ -1,7 +1,8 @@
-personal_ws-1.1 en 385
+personal_ws-1.1 en 403
 aadamk
 AAP
 Abdullaev
+ACR
 adamantinomatous
 adamcresnick
 adenylated
@@ -85,6 +86,7 @@ Diskin
 DKFZ
 DMG
 dmiller
+DMT
 dockerized
 doi
 DRC
@@ -167,6 +169,8 @@ isoform
 jenn
 jharenza
 Jin
+JLR
+JMM
 jolynnerokita
 JosephDybas
 Kapa
@@ -197,6 +201,7 @@ MantaSV
 MAPK
 mappability
 Mariarita
+MBs
 medulloblastoma
 medulloblastomas
 MedulloClassifier
@@ -322,6 +327,7 @@ SBS
 scalable
 Shukla
 Sickler
+SJD
 sjdiskin
 Slurm
 SMO
@@ -355,6 +361,7 @@ TP
 TPM
 transcriptome
 transcriptomes
+transcriptomic
 Tribrid
 Trooskin
 TruSeq
