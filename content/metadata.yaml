@@ -549,6 +549,23 @@ authors:
     Sinai, New York, NY 10029, USA
   - Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY
     10029, USA
+- github: mkoptyra
+  name: Mateusz P. Koptyra
+  initials: MPK
+  orcid: 0000-0002-3857-6633
+  email: koptyram@chop.edu
+  contributions:
+  - Data curation
+  - Investigation
+  - Methodology
+  - Supervision
+  affiliations:
+  - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia,
+    Philadelphia, PA, 19104, USA
+  - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA,
+    19104, USA
+  - Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia,
+    Philadelphia, PA, 19104, USA
 - github: taylordm
   name: Deanne Taylor
   initials: DT
