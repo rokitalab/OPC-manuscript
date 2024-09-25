@@ -6,7 +6,7 @@ keywords:
 - open science
 - multi-omics
 lang: en-US
-date-meta: '2024-09-20'
+date-meta: '2024-09-25'
 author-meta:
 - Zhuangzhuang Geng
 - Eric Wafula
@@ -53,6 +53,7 @@ author-meta:
 - Ammar S. Naqvi
 - Noel Coleman
 - Weiping Ma
+- Mateusz P. Koptyra
 - Deanne Taylor
 - Jo Lynne Rokita
 header-includes: |
@@ -66,11 +67,11 @@ header-includes: |
   <meta name="citation_title" content="The Open Pediatric Cancer Project" />
   <meta property="og:title" content="The Open Pediatric Cancer Project" />
   <meta property="twitter:title" content="The Open Pediatric Cancer Project" />
-  <meta name="dc.date" content="2024-09-20" />
-  <meta name="citation_publication_date" content="2024-09-20" />
-  <meta property="article:published_time" content="2024-09-20" />
-  <meta name="dc.modified" content="2024-09-20T18:30:01+00:00" />
-  <meta property="article:modified_time" content="2024-09-20T18:30:01+00:00" />
+  <meta name="dc.date" content="2024-09-25" />
+  <meta name="citation_publication_date" content="2024-09-25" />
+  <meta property="article:published_time" content="2024-09-25" />
+  <meta name="dc.modified" content="2024-09-25T17:19:23+00:00" />
+  <meta property="article:modified_time" content="2024-09-25T17:19:23+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -247,6 +248,10 @@ header-includes: |
   <meta name="citation_author" content="Weiping Ma" />
   <meta name="citation_author_institution" content="Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA" />
   <meta name="citation_author_institution" content="Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA" />
+  <meta name="citation_author" content="Mateusz P. Koptyra" />
+  <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_orcid" content="0000-0002-3857-6633" />
   <meta name="citation_author" content="Deanne Taylor" />
   <meta name="citation_author_institution" content="Department of Biomedical and Health Informatics, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_institution" content="Department of Pediatrics, University of Pennsylvania Perelman Medical School, Philadelphia, PA, 19104, USA" />
@@ -257,15 +262,15 @@ header-includes: |
   <meta name="citation_author_institution" content="Department of Biomedical and Health Informatics, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_orcid" content="0000-0003-2171-3627" />
   <meta name="twitter:creator" content="@jolynnerokita" />
-  <link rel="canonical" href="https://rokitalab.github.io/OPC-manuscript/" />
-  <meta property="og:url" content="https://rokitalab.github.io/OPC-manuscript/" />
-  <meta property="twitter:url" content="https://rokitalab.github.io/OPC-manuscript/" />
-  <meta name="citation_fulltext_html_url" content="https://rokitalab.github.io/OPC-manuscript/" />
-  <meta name="citation_pdf_url" content="https://rokitalab.github.io/OPC-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="application/pdf" href="https://rokitalab.github.io/OPC-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://rokitalab.github.io/OPC-manuscript/v/d444a1fad5b0c9bb1a1429eec2a0e05c54a3dc80/" />
-  <meta name="manubot_html_url_versioned" content="https://rokitalab.github.io/OPC-manuscript/v/d444a1fad5b0c9bb1a1429eec2a0e05c54a3dc80/" />
-  <meta name="manubot_pdf_url_versioned" content="https://rokitalab.github.io/OPC-manuscript/v/d444a1fad5b0c9bb1a1429eec2a0e05c54a3dc80/manuscript.pdf" />
+  <link rel="canonical" href="https://rokitalab.github.io/OpenPedCan-manuscript/" />
+  <meta property="og:url" content="https://rokitalab.github.io/OpenPedCan-manuscript/" />
+  <meta property="twitter:url" content="https://rokitalab.github.io/OpenPedCan-manuscript/" />
+  <meta name="citation_fulltext_html_url" content="https://rokitalab.github.io/OpenPedCan-manuscript/" />
+  <meta name="citation_pdf_url" content="https://rokitalab.github.io/OpenPedCan-manuscript/manuscript.pdf" />
+  <link rel="alternate" type="application/pdf" href="https://rokitalab.github.io/OpenPedCan-manuscript/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://rokitalab.github.io/OpenPedCan-manuscript/v/06e59a9c6fc44aea4c9cd71a62b6a7943ec8c25c/" />
+  <meta name="manubot_html_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/06e59a9c6fc44aea4c9cd71a62b6a7943ec8c25c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/06e59a9c6fc44aea4c9cd71a62b6a7943ec8c25c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -287,10 +292,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://rokitalab.github.io/OPC-manuscript/v/d444a1fad5b0c9bb1a1429eec2a0e05c54a3dc80/))
+([permalink](https://rokitalab.github.io/OpenPedCan-manuscript/v/06e59a9c6fc44aea4c9cd71a62b6a7943ec8c25c/))
 was automatically generated
-from [rokitalab/OPC-manuscript@d444a1f](https://github.com/rokitalab/OPC-manuscript/tree/d444a1fad5b0c9bb1a1429eec2a0e05c54a3dc80)
-on 2024-09-20.
+from [rokitalab/OpenPedCan-manuscript@06e59a9](https://github.com/rokitalab/OpenPedCan-manuscript/tree/06e59a9c6fc44aea4c9cd71a62b6a7943ec8c25c)
+on 2024-09-25.
 </em></small>
 
 ## Authors
@@ -644,6 +649,15 @@ on 2024-09-20.
      Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA; Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA
   </small>
 
++ **Mateusz P. Koptyra**<br>
+    ![ORCID icon](images/orcid.png){.inline_icon}
+    [0000-0002-3857-6633](https://orcid.org/0000-0002-3857-6633)
+    · ![GitHub icon](images/github.png){.inline_icon}
+    [mkoptyra](https://github.com/mkoptyra)<br>
+  <small>
+     Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  </small>
+
 + **Deanne Taylor**<br>
     ![ORCID icon](images/orcid.png){.inline_icon}
     [0000-0002-3302-4610](https://orcid.org/0000-0002-3302-4610)
@@ -701,7 +715,7 @@ Notably, we have expanded PBTA molecular subtyping to include methylation inform
 
 
 ## Keywords
-Pediatric cancer, open science, reproducibility, multi-omics
+Pediatric cancer, open science, reproducibility, multi-omics, Docker
 
 
 
@@ -1305,6 +1319,7 @@ We thank Rocky Breslow for GitHub actions contributions and Rust Turakulov for c
 |Ammar S. Naqvi|Methodology, Writing – Original draft|
 |Noel Coleman|Data curation|
 |Weiping Ma|Formal Analysis, Investigation, Data curation|
+|Mateusz P. Koptyra|Data curation, Investigation, Methodology, Supervision|
 |Deanne Taylor|Conceptualization, Data curation, Funding acquisition, Investigation, Methodology, Supervision, Project administration|
 |Jo Lynne Rokita|Conceptualization, Data curation, Formal analysis, Funding acquisition, Project administration, Investigation, Methodology, Software, Supervision, Writing – Original draft, Writing - Review and editing|
 
