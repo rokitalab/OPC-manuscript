@@ -1,8 +1,8 @@
 # Output directory containing the formatted manuscript
 
-The [`gh-pages`](https://github.com/rokitalab/OPC-manuscript/tree/gh-pages) branch hosts the contents of this directory at <https://rokitalab.github.io/OPC-manuscript/>.
-The permalink for this webpage version is <https://rokitalab.github.io/OPC-manuscript/v/d444a1fad5b0c9bb1a1429eec2a0e05c54a3dc80/>.
-To redirect to the permalink for the latest manuscript version at anytime, use the link <https://rokitalab.github.io/OPC-manuscript/v/freeze/>.
+The [`gh-pages`](https://github.com/rokitalab/OpenPedCan-manuscript/tree/gh-pages) branch hosts the contents of this directory at <https://rokitalab.github.io/OpenPedCan-manuscript/>.
+The permalink for this webpage version is <https://rokitalab.github.io/OpenPedCan-manuscript/v/06e59a9c6fc44aea4c9cd71a62b6a7943ec8c25c/>.
+To redirect to the permalink for the latest manuscript version at anytime, use the link <https://rokitalab.github.io/OpenPedCan-manuscript/v/freeze/>.
 
 ## Files
 
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`d444a1fad5b0c9bb1a1429eec2a0e05c54a3dc80`](https://github.com/rokitalab/OPC-manuscript/commit/d444a1fad5b0c9bb1a1429eec2a0e05c54a3dc80).
+[`06e59a9c6fc44aea4c9cd71a62b6a7943ec8c25c`](https://github.com/rokitalab/OpenPedCan-manuscript/commit/06e59a9c6fc44aea4c9cd71a62b6a7943ec8c25c).
