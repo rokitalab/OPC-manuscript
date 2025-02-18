@@ -9,7 +9,7 @@
 
 ## Manuscript description
 
-This repository describes the [OpenPedCan](https://github.com/rokitalab/OpenPedCan-analysis) Project and GitHub repository.
+This repository describes the [OpenPedCan](https://github.com/d3b-center/OpenPedCan-analysis) Project and GitHub repository maintained at the Center for Data-Driven Discovery in Biomedicine at the Children's Hospital of Philadelphia.
 See the latest version of the manuscript as a [webpage](https://rokitalab.github.io/OpenPedCan-manuscript/) or download it as a [PDF](https://rokitalab.github.io/OpenPedCan-manuscript/manuscript.pdf).
 
 
