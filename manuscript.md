@@ -6,7 +6,7 @@ keywords:
 - open science
 - multi-omics
 lang: en-US
-date-meta: '2025-02-18'
+date-meta: '2025-02-28'
 author-meta:
 - Zhuangzhuang Geng
 - Eric Wafula
@@ -67,11 +67,11 @@ header-includes: |
   <meta name="citation_title" content="The Open Pediatric Cancer Project" />
   <meta property="og:title" content="The Open Pediatric Cancer Project" />
   <meta property="twitter:title" content="The Open Pediatric Cancer Project" />
-  <meta name="dc.date" content="2025-02-18" />
-  <meta name="citation_publication_date" content="2025-02-18" />
-  <meta property="article:published_time" content="2025-02-18" />
-  <meta name="dc.modified" content="2025-02-18T16:01:47+00:00" />
-  <meta property="article:modified_time" content="2025-02-18T16:01:47+00:00" />
+  <meta name="dc.date" content="2025-02-28" />
+  <meta name="citation_publication_date" content="2025-02-28" />
+  <meta property="article:published_time" content="2025-02-28" />
+  <meta name="dc.modified" content="2025-02-28T16:17:21+00:00" />
+  <meta property="article:modified_time" content="2025-02-28T16:17:21+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -268,9 +268,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://rokitalab.github.io/OpenPedCan-manuscript/" />
   <meta name="citation_pdf_url" content="https://rokitalab.github.io/OpenPedCan-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://rokitalab.github.io/OpenPedCan-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://rokitalab.github.io/OpenPedCan-manuscript/v/cc4fd6d9402e40bc480110a0c2acf547450b8aae/" />
-  <meta name="manubot_html_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/cc4fd6d9402e40bc480110a0c2acf547450b8aae/" />
-  <meta name="manubot_pdf_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/cc4fd6d9402e40bc480110a0c2acf547450b8aae/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://rokitalab.github.io/OpenPedCan-manuscript/v/d56f5f4b67e3a199bf179bf3e388b51283571871/" />
+  <meta name="manubot_html_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/d56f5f4b67e3a199bf179bf3e388b51283571871/" />
+  <meta name="manubot_pdf_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/d56f5f4b67e3a199bf179bf3e388b51283571871/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -292,10 +292,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://rokitalab.github.io/OpenPedCan-manuscript/v/cc4fd6d9402e40bc480110a0c2acf547450b8aae/))
+([permalink](https://rokitalab.github.io/OpenPedCan-manuscript/v/d56f5f4b67e3a199bf179bf3e388b51283571871/))
 was automatically generated
-from [rokitalab/OpenPedCan-manuscript@cc4fd6d](https://github.com/rokitalab/OpenPedCan-manuscript/tree/cc4fd6d9402e40bc480110a0c2acf547450b8aae)
-on 2025-02-18.
+from [rokitalab/OpenPedCan-manuscript@d56f5f4](https://github.com/rokitalab/OpenPedCan-manuscript/tree/d56f5f4b67e3a199bf179bf3e388b51283571871)
+on 2025-02-28.
 </em></small>
 
 ## Authors
@@ -1223,10 +1223,15 @@ Further, the analysis modules can be run within the project Docker container loc
 ## Availability of source code and requirements
 
 Project name: The Open Pediatric Cancer (OpenPedCan) Project
+
 Project home page: https://github.com/d3b-center/OpenPedCan-analysis
+
 Operating system(s): Platform independent
+
 Programming languages: R, Python, bash
+
 Other requirements: CAVATICA, Docker image at pgc-images.sbgenomics.com/d3b-bixu/openpedcanverse:latest
+
 License: CC-BY 4.0
 
 Primary analyses were performed using Gabriella Miller Kids First pipelines and are listed in the methods section.
